@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hola soy Maria fernanda Duarte 👋
+## programadora full stack en formacion 💻
 
 <!--
 **mduarte1996/mduarte1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
