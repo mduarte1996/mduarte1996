@@ -6,7 +6,7 @@
 ## Ubicación📍
 - Benidorm - España  
 ---
-## lenguajes y herramientas 
+## lenguajes y herramientas ⚒️
 ![image](https://github.com/user-attachments/assets/961863d2-a3f8-4fec-93fb-b0ba9b8d66a2)
 ![image](https://github.com/user-attachments/assets/b3989e8e-7f79-4948-a904-beabe0daa397)
 ![image](https://github.com/user-attachments/assets/275e9995-75bb-4c17-815e-afa57db0dd7c)
@@ -20,7 +20,7 @@
 ---
 ## Contacto 👩‍💻
 - ![image](https://github.com/user-attachments/assets/c66fa0d3-7829-4ba8-9ea8-5d6ba5c1859a) [mariafernandaduarte](https://www.linkedin.com/in/maria-fernanda-duarte-037019357/)
-- ![image](https://github.com/user-attachments/assets/7b266e36-a498-461f-a54c-af8e6df81ad7)  mfda.1396@gmail.com
+- ![image](https://github.com/user-attachments/assets/7b266e36-a498-461f-a54c-af8e6df81ad7)  [mfda.1396@gmail.com](mailto:mfda.1396@gmail.com)
 
 
 
