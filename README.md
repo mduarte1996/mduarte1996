@@ -1,8 +1,8 @@
 # Hola soy Maria Fernanda👋
-### programadora full stack en formación 🚧💻📚 
+### Full-Stack Developer 💻📚 
 ---
 ## Sobre mi 🙆‍♀️
-#### Mi nombre es Maria Fernanda Duarte, de nacionalidad Colombiana, viviendo en España, actualmente estudiante de programación con la academia 4geeks academy, apasionada por esta profesión, me gusta trabajar en equipo y disfruto aprender cada dia mas.
+#### Mi nombre es Maria Fernanda Duarte, de nacionalidad Colombiana, viviendo en España, recien graduada como Full-Stack Developer, apasionada por aprender y enfrentar nuevos retos, aportando mis conocimientos, creatividad y compromiso en proyectos innovadores. 
 ## Ubicación📍
 - Benidorm - España  
 ---
