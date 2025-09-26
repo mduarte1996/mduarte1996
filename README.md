@@ -1,5 +1,7 @@
 # Hola soy Maria Fernanda👋
 ### Full-Stack Developer 💻📚 
+![Web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 ---
 ## Sobre mi 🙆‍♀️
 #### Desarrolladora Full Stack con experiencia en Python (Flask, SQLAlchemy), JavaScript, React.js y API RESTful. Manejo de bases de datos relacionales, control de versiones con Git/GitHub y metodologías ágiles. Apasionada por el aprendizaje continuo, enfocada en la calidad del código, escalabilidad y trabajo en equipo. 
@@ -7,13 +9,8 @@
 - Benidorm - España  
 ---
 ## lenguajes y herramientas ⚒️
-![image](https://github.com/user-attachments/assets/961863d2-a3f8-4fec-93fb-b0ba9b8d66a2)
-![image](https://github.com/user-attachments/assets/b3989e8e-7f79-4948-a904-beabe0daa397)
-![image](https://github.com/user-attachments/assets/275e9995-75bb-4c17-815e-afa57db0dd7c)
-![image](https://github.com/user-attachments/assets/7a4c3ec6-e11d-40a4-8e54-ae8e33303b58) 
-![image](https://github.com/user-attachments/assets/6865dfb8-e5ee-4f7f-885c-7b1a21175320)
-![image](https://github.com/user-attachments/assets/780eb263-53f3-42d1-bfa8-a4c9e87bf0c2)
-![image](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/5a651633-ef0e-4b37-83d2-256c025ebd5c" />)
+HTML| CSS | BootStrap | JavaScript | React | Python | Flask | API RESTful | SQL | SQLalchemy 
+
 
 
 
