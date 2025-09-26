@@ -2,7 +2,7 @@
 ### Full-Stack Developer 💻📚 
 ---
 ## Sobre mi 🙆‍♀️
-#### Mi nombre es Maria Fernanda Duarte, de nacionalidad Colombiana, viviendo en España, recien graduada como Full-Stack Developer, apasionada por aprender y enfrentar nuevos retos, aportando mis conocimientos, creatividad y compromiso en proyectos innovadores. 
+#### Desarrolladora Full Stack con experiencia en Python (Flask, SQLAlchemy), JavaScript, React.js y API RESTful. Manejo de bases de datos relacionales, control de versiones con Git/GitHub y metodologías ágiles. Apasionada por el aprendizaje continuo, enfocada en la calidad del código, escalabilidad y trabajo en equipo. 
 ## Ubicación📍
 - Benidorm - España  
 ---
