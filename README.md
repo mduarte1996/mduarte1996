@@ -30,9 +30,14 @@
 <img width="108" height="28" alt="image" src="https://github.com/user-attachments/assets/12dfa402-9b69-4174-988d-ef05907b0b89" />
 <img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/9be69d56-4861-4ced-b6be-77bd612d8687" />
 
-
+---
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mduarte1996&show_icons=true&theme=radical)
+
+---
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+
 
 
 
