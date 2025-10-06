@@ -13,9 +13,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/maria fernanda duarte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria fernanda duarte" height="30" width="40" /></a>
 <a href="https://fb.com/maria fernanda duarte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maria fernanda duarte" height="30" width="40" /></a>   
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/1372908911300186193)
-  
 </p>
+<img width="69" height="20" alt="image" src="https://github.com/user-attachments/assets/a011a4e9-d28e-4a57-8000-c8927962199f" />
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/1372908911300186193)
 
 <h3 align="left"> 🚀 Lenguajes y herramientas:</h3>
 <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/ced4ca94-7c9c-4b28-a833-ee70a1bede97" />
